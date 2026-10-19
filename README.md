@@ -10,7 +10,7 @@ Outside of work, I design and ship my own apps and games.
 | **Mind Engine** · [Google Play](https://play.google.com/store/apps/details?id=com.evansmaignan.mindengine) · [web version](https://me-eleven.github.io/mind-engine/play/) | 20 brain games and a daily challenge, in production (v1.7). Sole developer, from design to release. | Flutter, Dart, Play Games Services |
 | **Mend Everything** | Couch co-op game for 2 to 4 players on one screen, 12 levels, in development. | Babylon.js, TypeScript, Vite |
 | **Poker Coach** | Solver and trainer for Spin & Rush (3-player hyper-turbo poker), accurate to under 0.0005 BB per hand. | Python, NumPy, CFR |
-| [**TSP genetic algorithm**](https://github.com/EvansMaignan/vrp-genetic-algorithm) | Web app that visualises the travelling salesman problem being solved in real time, with an interactive tutorial. Team project. | Python, Flask, JavaScript, Docker |
+| [**TSP genetic algorithm**](https://github.com/EvansMaignan/tsp-genetic-algorithm) | Web app that visualises the travelling salesman problem being solved in real time, with an interactive tutorial. Team project. | Python, Flask, JavaScript, Docker |
 | [**FISK**](https://github.com/EvansMaignan/fisk) · [website](https://evansmaignan.github.io/fisk/) | Strategy game inspired by Risk, my first team project (first year of university). | Java, JavaFX |
 
 ### At work
