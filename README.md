@@ -11,7 +11,6 @@ Outside of work, I design and ship my own apps and games.
 | **Mend Everything** | Couch co-op game for 2 to 4 players on one screen, 12 levels, in development. | Babylon.js, TypeScript, Vite |
 | **Mentor Echo : Poker** | Solver and trainer for Spin & Rush (3-player hyper-turbo poker), accurate to under 0.0005 BB per hand. | Python, NumPy, CFR |
 | [**TSP genetic algorithm**](https://github.com/EvansMaignan/pns-si4-tsp-genetic-algorithm) | Web app that visualises the travelling salesman problem being solved in real time, with an interactive tutorial. Team project. | Python, Flask, JavaScript, Docker |
-| [**FISK**](https://github.com/EvansMaignan/iut-but1-fisk) · [website](https://evansmaignan.github.io/iut-but1-fisk/) | Strategy game inspired by Risk, my first team project (first year of university). | Java, JavaFX |
 
 ### At work
 
