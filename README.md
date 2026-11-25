@@ -14,12 +14,6 @@ I also design and ship my own apps and games.
 | **Mind Engine** · [Google Play](https://play.google.com/store/apps/details?id=com.evansmaignan.mindengine) · [website](https://mind-engine.emaignan.com/) · [web version](https://mind-engine.emaignan.com/play/) | 20 puzzle games, live on Google Play (v2.1): daily challenge, friends and leaderboards, online saves with games resumed on another device, 10 languages. Sole developer, from design to server and release. | Flutter, Dart, shelf, PostgreSQL, Docker |
 | **Mainframe Exploration** · [website](https://mainframe-exploration.emaignan.com/) | Platform to get better at algorithms in C++: 186 exercises graded by a home-made sandboxed judge, timed mock exams, a daily session on weak topics and a 1,245-question quiz. | React, TypeScript, Node.js, Supabase, C++, Docker |
 
-**In progress**
-
-| Project | In short | Stack |
-| --- | --- | --- |
-| **Match Echo** · [web version](https://match-echo.emaignan.com/) | Two-player co-op card roguelite, local or online: a 42-chapter campaign, solo or with a friend, on an authoritative game server. | Flutter, Dart, Flame, WebSocket, Supabase |
-
 **School**
 
 | Project | In short | Stack |
@@ -35,10 +29,10 @@ At Bigsool, I build the releases intranet (Angular, NestJS): iOS, Android and we
 ### Skills
 
 **Languages**: TypeScript, Java, Python, Dart, C / C++, PHP, SQL, Bash
-**Front-end, mobile and games**: Flutter, Angular, React, Android, Babylon.js, Flame
-**Back-end and data**: NestJS, Spring Boot, Quarkus, Node.js, PostgreSQL, Supabase, Kafka, WebSocket
+**Front-end, mobile and games**: Flutter, Angular, React, Android
+**Back-end and data**: NestJS, Spring Boot, Quarkus, Node.js, PostgreSQL, Supabase, Kafka
 **DevOps**: Kubernetes, Docker, ArgoCD, AWS, OpenTofu, GitHub Actions, Fastlane
 
 ### Contact
 
-[emaignan.com](https://emaignan.com) · [LinkedIn](https://www.linkedin.com/in/evans-maignan-9bb548271/) · evansmaignan@gmail.com
+[emaignan.com](https://emaignan.com) · [LinkedIn](https://www.linkedin.com/in/evans-maignan/) · evansmaignan@gmail.com
