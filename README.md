@@ -24,7 +24,7 @@ I also design and ship my own apps and games.
 
 ### At work
 
-At Bigsool, I build the releases intranet (Angular, NestJS): iOS, Android and web builds, test reports, and temporary test environments created from a pull request on Kubernetes (AWS EKS) with ArgoCD, put to sleep outside working hours. I also maintain the GitHub Actions CI/CD workflows shared across repositories, and containerised and load-tested the legacy PHP API.
+At Bigsool, I build the releases intranet (Angular, NestJS): iOS, Android and web builds, test reports, and temporary test environments created from a pull request on Kubernetes (AWS EKS) with ArgoCD, put to sleep outside working hours. I am also working on a complete CI overhaul: migration from Travis CI to GitHub Actions, workflows shared across repositories and a Fastlane CI for the Archipad iOS app. I also containerised and load-tested the legacy PHP API.
 
 ### Skills
 
