@@ -12,18 +12,13 @@ I also design and ship my own apps and games.
 | Project | In short | Stack |
 | --- | --- | --- |
 | **Mind Engine** · [Google Play](https://play.google.com/store/apps/details?id=com.evansmaignan.mindengine) · [website](https://mind-engine.emaignan.com/) · [web version](https://mind-engine.emaignan.com/play/) | 20 puzzle games, live on Google Play (v2.1): daily challenge, friends and leaderboards, online saves with games resumed on another device, 10 languages. Sole developer, from design to server and release. | Flutter, Dart, shelf, PostgreSQL, Docker |
-| **Mad Eccentrics** · [website](https://mad-eccentrics.emaignan.com/en/) · [become a tester](https://mad-eccentrics.emaignan.com/en/testers/) | Party game on a single phone passed around the table: 31 illustrated escapees, each with a challenge, 3 to 8 players, 10 languages. In testing on Google Play. | Flutter, Dart |
 | **Mainframe Exploration** · [website](https://mainframe-exploration.emaignan.com/) | Platform to get better at algorithms in C++: 186 exercises graded by a home-made sandboxed judge, timed mock exams, a daily session on weak topics and a 1,245-question quiz. | React, TypeScript, Node.js, Supabase, C++, Docker |
-| **Music Evening** · [play](https://music-evening.emaignan.com/) | Blind test and karaoke night in the browser: the TV plays the music, the phones become buzzers, real-time rooms over WebSocket. | React, TypeScript, Node.js, WebSocket |
 
 **In progress**
 
 | Project | In short | Stack |
 | --- | --- | --- |
 | **Match Echo** · [web version](https://match-echo.emaignan.com/) | Two-player co-op card roguelite, local or online: a 42-chapter campaign, solo or with a friend, on an authoritative game server. | Flutter, Dart, Flame, WebSocket, Supabase |
-| **Mentor Echo : Poker** | Solver and trainer for Spin & Rush (3-player hyper-turbo poker): exact push-or-fold solutions, exploitability under 0.0005 BB per hand, bot trained through self-play. | Python, NumPy, Numba, OpenCV, CFR |
-| **Mend Everything** | Couch co-op game for 2 to 4 players on one screen, 12 levels. | Babylon.js, TypeScript, Vite, Blender |
-| **Mission Examen** | App to prepare for the 2027 computer science agrégation: courses, spaced-repetition daily quiz, oral exams. | Flutter, Dart, Python, FSRS |
 
 **School**
 
